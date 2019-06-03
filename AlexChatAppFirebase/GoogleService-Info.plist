@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>942878126310-g7m30pj61cnc0q13muir9knig9rmk5dp.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.942878126310-g7m30pj61cnc0q13muir9knig9rmk5dp</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAwB7jrFfETGz8YxY4OdOO3oFtJ-4C9t6A</string>
+	<key>GCM_SENDER_ID</key>
+	<string>942878126310</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>kr.AlexLee0427.example</string>
+	<key>PROJECT_ID</key>
+	<string>fir-forchattingapp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-forchattingapp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:942878126310:ios:b10580728577ba24</string>
+	<key>DATABASE_URL</key>
+	<string>https://fir-forchattingapp.firebaseio.com</string>
+</dict>
+</plist>
